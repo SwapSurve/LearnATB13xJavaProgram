@@ -10,7 +10,7 @@ public class Lab0022
         System.out.println(a);
 
         int age=21;
-        age=age+1;
+        //age=age+1;
         age=45;
         System.out.println(age);
 
