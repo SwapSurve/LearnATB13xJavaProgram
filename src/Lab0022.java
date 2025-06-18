@@ -11,7 +11,7 @@ public class Lab0022
 
         int age=21;
         //age=age+1;
-        age=45;
+        //age=45;
         System.out.println(age);
 
         System.out.printf("Your Variable name %d", age);
